@@ -4,7 +4,7 @@ This is a simple React application that serves as an image gallery viewer, utili
 
 ## Demo
 
-Check out the live demo [[here](https://image-gallery-viewer-6rx0ul8yp-remo-antonio-lalatas-projects.vercel.app/)](https://image-gallery-viewer.vercel.app/).
+Check out the live demo [here](https://image-gallery-viewer.vercel.app/).
 ## Features
 
 - **Image Gallery:** Browse a collection of stunning photos fetched from the Pexels API.
