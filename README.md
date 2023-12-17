@@ -4,12 +4,12 @@ This is a simple React application that serves as an image gallery viewer, utili
 
 ## Demo
 
-Check out the live demo [here](https://image-gallery-viewer-6rx0ul8yp-remo-antonio-lalatas-projects.vercel.app/).
+Check out the live demo [here](https://image-gallery-viewer-6rx0ul8yp-remo-antonio-lalatas-projects.vercel.app/)](https://image-gallery-viewer.vercel.app/).
 ## Features
 
 - **Image Gallery:** Browse a collection of stunning photos fetched from the Pexels API.
 - **Search Functionality:** Use the search bar to find specific photos based on keywords or themes.
-- **Responsive Design:** Responsive Design: The application is currently not optimized for mobile devices.
+- **Responsive Design:** The application is currently not optimized for mobile devices.
 
 ## Getting Started
 
@@ -59,7 +59,6 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 - Upon launching the application, you will be greeted with a default set of images from Pexels.
 - Use the search bar to enter keywords and find images related to your search.
-- Click on any image to view it in a larger size.
 
 ## Technologies Used
 
